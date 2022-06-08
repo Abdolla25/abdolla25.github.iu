@@ -1,5 +1,9 @@
 h1 {
-    font-size: 42px;
+<<<<<<< HEAD
+    font-size: 40px;
     text-decoration: dotted;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+=======
+    font-size: 40px;
+>>>>>>> 534925d8fd91b43ee20a2b406aff88c16bb6f634
 }
